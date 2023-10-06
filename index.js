@@ -35,7 +35,7 @@ let resultadoAntes = ++incrementarAntes;
 
 
 
-//bucles//
+//bucles2//
 
 const contarHasta10_2 = "0"
 
